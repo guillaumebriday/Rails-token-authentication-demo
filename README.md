@@ -1,5 +1,7 @@
 # Rails-token-authentication-demo
 
+[![Build Status](https://travis-ci.org/ZiiCEagle/Rails-token-authentication-demo.svg?branch=master)](https://travis-ci.org/ZiiCEagle/Rails-token-authentication-demo)
+
 Exemple de l'authentification avec des tokens pour une API Rails.
 
 ## Installation
