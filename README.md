@@ -7,7 +7,7 @@ Exemple de l'authentification avec des tokens pour une API Rails.
 ## Installation
 
 ```
-$ git clone git@github.com:climb-up/Rails-token-authentication-demo.git
+$ git clone git@github.com:ZiiCEagle/Rails-token-authentication-demo.git
 $ cd Rails-token-authentication-demo
 $ bundle
 $ bundle exec rake db:migrate
